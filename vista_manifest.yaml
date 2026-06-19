@@ -4,7 +4,7 @@ repository:
   name: "test-fm-veracode-end-to-end"
   full_name: "testveracode/test-fm-veracode-end-to-end"
   branch: "test-end-to-end-branch"
-  commit_sha: "7e138e02a608da9bd4c6b3ab4d54e1fb6e9f8021"
+  commit_sha: "e42f0428aff366d692595efa9df94500279e7ef5"
 
 business_application:
   name: "test_end_to_end_fm"
@@ -18,4 +18,4 @@ veracode:
 vista:
   managed: true
   generated_by: "vista-context-resolver"
-  generated_at: "2026-06-19T06:31:20.031Z"
+  generated_at: "2026-06-19T06:33:42.318Z"
