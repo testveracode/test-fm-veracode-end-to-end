@@ -1,0 +1,21 @@
+version: 1
+
+repository:
+  name: "test-fm-veracode-end-to-end"
+  full_name: "testveracode/test-fm-veracode-end-to-end"
+  branch: "test-end-to-end-branch"
+  commit_sha: "03f2800b632605d5b793004948de8fd1301d6265"
+
+business_application:
+  name: "test_end_to_end_fm"
+  criticality: "HIGH"
+
+veracode:
+  profile_name: "test_end_to_end_fm"
+  policy_name: "Sysco Very High and High Vulnerability Protect"
+  app_guid: "8324b63c-e36f-45d7-a7fb-e2c7fca0c15f"
+
+vista:
+  managed: true
+  generated_by: "vista-context-resolver"
+  generated_at: "2026-06-19T06:16:38.215Z"
